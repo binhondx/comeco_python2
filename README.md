@@ -1,2 +1,4 @@
-# comeco_python2
-Teste De U:ma Aula Online
+# Começo Python2
+Teste de uma Aula Ao vivo no Youtube
+
+Forma Diferente de Criação de Repositório
